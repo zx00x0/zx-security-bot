@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 import logging
 import os
 
-TOKEN = os.getenv("8552209530:AAGvXgFphfdsVwX0AahIymqyLZr_0g b0")
+TOKEN = os.getenv("8552209530:AAGvXgFphfdsVwX0AahIymqyLZr_0g b0-d8")
 
 logging.basicConfig(level=logging.INFO)
 
